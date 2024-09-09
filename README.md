@@ -2,4 +2,4 @@
 
 Simplest library for bluetooth interactions in android
 
-![demo](Demo/demo.gif)
+![demo](Demos/demo.gif)
